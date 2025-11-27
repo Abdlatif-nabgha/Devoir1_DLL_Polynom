@@ -1,5 +1,7 @@
 # 📊 Analyse de Complexité - Polynômes par Liste Doublement Chaînée
 
+## Réalisé par : Abdlatif SIDI MED NABGHA - GLSID2
+
 ## Opérations de Base
 
 | Opération | Complexité | Explication |
